@@ -10,5 +10,5 @@ Thanks to ChatGPT
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheKingOfCampers/All-Games-List/main/ColorList.png" width="750" title="hover text">
+  <img src="https://raw.githubusercontent.com/TheKingOfCampers/ALL-HEX-COLOR-CODES-IN-JSON/main/ColorList.png" width="750" title="hover text">
 </p>
