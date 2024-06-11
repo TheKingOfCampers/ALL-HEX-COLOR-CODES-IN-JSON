@@ -9,7 +9,7 @@ Thanks to ChatGPT
 ```
 <p align="center">
   <a href="https://www.mediafire.com/file/qvaqc75tu516vep/ColorHEX.zip/file"</a>
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092091889970319511/Download-Button.png" width="200">
+  <img src="Download.png" width="200">
 </p>
 
 
